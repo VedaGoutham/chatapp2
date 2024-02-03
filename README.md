@@ -1,1 +1,1 @@
-# chatapp2
+# Django-Chat-Application
